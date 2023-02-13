@@ -1,4 +1,4 @@
-package org.overlake.mat803.myapplication;
+package org.overlake.mat803.navigation;
 
 import org.junit.Test;
 

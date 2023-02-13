@@ -1,4 +1,4 @@
-package org.overlake.mat803.myapplication;
+package org.overlake.mat803.navigation;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("org.overlake.mat803.myapplication", appContext.getPackageName());
+        assertEquals("org.overlake.mat803.navigation", appContext.getPackageName());
     }
 }

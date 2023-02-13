@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'org.overlake.mat803.myapplication'
+    namespace 'org.overlake.mat803.navigation'
     compileSdk 33
 
     defaultConfig {
-        applicationId "org.overlake.mat803.myapplication"
+        applicationId "org.overlake.mat803.navigation"
         minSdk 33
         targetSdk 33
         versionCode 1
